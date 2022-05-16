@@ -1,0 +1,21 @@
+{
+  "name": "mcmakler",
+  "version": "1.0.0",
+  "description": "Designed on latest stable version of cypress to speedup Test Execution",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
