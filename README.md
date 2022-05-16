@@ -28,7 +28,7 @@ This project covers solution for given Assignment:
 ## Setup
 
 After cloning project from github, open project in vscode.
-Nevigate to following directory: `/McMakler/mcMakler`
+Nevigate to following directory: `/McMakler`
 and type following command in vscode terminal.
 
 ```bash
@@ -42,3 +42,4 @@ Go to the project directory mentioned in Setup step and run following command:
 ```bash
   npm run cypress:open
 ```
+Cypress Test runner will opened. Click on advertisements.js, test execution will starts.
